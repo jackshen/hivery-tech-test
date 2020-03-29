@@ -1,0 +1,5 @@
+{
+  "ignoreTestFiles": ["**/__snapshots__/*", "**/__image_snapshots__/*"],
+  "viewportHeight": 720,
+  "viewportWidth": 1280
+}

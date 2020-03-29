@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectedProducts matches snapshot 1`] = `
+.c6 {
+  color: #989a9e;
+}
+
+.c7 {
+  font-size: initial;
+  margin-top: 0.5rem;
+}
+
+.c7 > tbody > tr > th {
+  padding-right: 0.875rem;
+  text-align: left;
+}
+
+.c3 {
+  object-fit: contain;
+  padding: 0 2.125rem;
+  width: 1.75rem;
+}
+
+.c4 {
+  width: 100%;
+}
+
+.c2 {
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: 1.75rem;
+  position: relative;
+  width: 100%;
+}
+
+.c2:after {
+  background-color: #eeeeee;
+  bottom: 0;
+  content: " ";
+  left: 50%;
+  height: 0.0625rem;
+  position: absolute;
+  -webkit-transform: translate(-50%,0);
+  -ms-transform: translate(-50%,0);
+  transform: translate(-50%,0);
+  width: 85%;
+}
+
+.c5 {
+  font-weight: bold;
+  margin-bottom: 0.5625rem;
+}
+
+.c1 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #e4e6ea;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: bold;
+  height: 2.875rem;
+  padding: 0 2.25rem;
+  width: 100%;
+}
+
+.c0 {
+  border-bottom: 0.0625rem solid #cccccc;
+  border-right: 0.0625rem solid #cccccc;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  grid-area: selected-products;
+  height: 100%;
+  overflow-y: auto;
+  width: 100%;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      Selected Products
+    </div>
+    <div
+      class="c2"
+    >
+      <img
+        alt="13312916Z CN 24LS_MON NRG"
+        class="sc-AxirZ c3"
+        src="https://cdn.vendinganalytics.com/reyes-ccb/tb/133129.png"
+      />
+      <div
+        class="c4"
+      >
+        <div
+          class="c5"
+        >
+          16Z CN 24LS_MON NRG
+        </div>
+        <div
+          class="c6"
+        >
+          133129
+        </div>
+        <table
+          class="c7"
+        >
+          <tbody>
+            <tr>
+              <th>
+                Price:
+              </th>
+              <td>
+                $2.75
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Vends:
+              </th>
+              <td>
+                1.24
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Revenue:
+              </th>
+              <td>
+                $3.42
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Cols:
+              </th>
+              <td>
+                8/10
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div
+      class="c2"
+    >
+      <img
+        alt="11475620Z PT 24LS_FANTA ORG"
+        class="sc-AxirZ c3"
+        src="https://cdn.vendinganalytics.com/reyes-ccb/tb/114756.png"
+      />
+      <div
+        class="c4"
+      >
+        <div
+          class="c5"
+        >
+          20Z PT 24LS_FANTA ORG
+        </div>
+        <div
+          class="c6"
+        >
+          114756
+        </div>
+        <table
+          class="c7"
+        >
+          <tbody>
+            <tr>
+              <th>
+                Price:
+              </th>
+              <td>
+                $1.75
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Vends:
+              </th>
+              <td>
+                2.06
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Revenue:
+              </th>
+              <td>
+                $3.6
+              </td>
+            </tr>
+            <tr>
+              <th>
+                Cols:
+              </th>
+              <td>
+                8/10
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;

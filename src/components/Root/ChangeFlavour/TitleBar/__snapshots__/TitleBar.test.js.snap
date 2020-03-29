@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitleBar matches snapshot 1`] = `
+.c0 {
+  border-bottom: 0.125rem solid #e4e6ea;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  grid-area: title-bar;
+  padding: 1.5rem 2.4375rem;
+  width: 100%;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    Change Flavour
+  </div>
+</div>
+`;
